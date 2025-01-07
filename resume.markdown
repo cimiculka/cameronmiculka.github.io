@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<div position = "relative" display = "inline-block">
+<div class = 'about' position = "relative" display = "inline-block">
         <img alt = "Cameron Miculka" src = "/assets/images/cameron.jpg" width = "250px" float = "left">
         <p>Cameron Miculka is a journalist in Kailua-Kona, Hawai‘i.<br />
         Since starting his journalism career in 2008 with The Weimar Mercury, a weekly print publication in Weimar, Texas, Cameron has covered a variety of beats, including public safety, education and infrastructure.<br />
