@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+$try-color: #f05;
+
+body {
+  font: 100% $font-stack;
+  color: $try-color;
+}
