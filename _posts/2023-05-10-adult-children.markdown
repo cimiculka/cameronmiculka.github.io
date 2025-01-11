@@ -1,0 +1,133 @@
+---
+layout: single
+title:  "More adults living with their parents"
+date:   2023-05-10 00:00:00 +0000
+categories: jekyll update
+---
+
+*This article was originally published by the Office National Statistics. The published version is available [here](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10#:~:text=In%202021%2C%20around%201%20in,4.9%20million%20in%20Census%202021).*
+
+The number of families in England and Wales with adult children living with their parents rose 13.6% between the 2011 Census and Census 2021 to nearly 3.8 million.
+
+In 2021, around 1 in every 4.5 families (22.4%) had an adult child, up from around 1 in 5 (21.2%) in 2011.
+
+The total number of adult children living with their parents increased 14.7% in the same period from around 4.2 million in the 2011 Census to around 4.9 million in Census 2021.
+
+In this article, the term “adult children” is used to refer to everyone who is considered a “non-dependent child”.
+
+This term refers to a person aged over 18 years who is living with their parent(s) and does not have a spouse, partner or child living with them. It also includes anyone aged 16 to 18 years who is not in full-time education and does not have a spouse, child or partner living with them.
+
+The average age of adult children has risen across England and Wales in the decade to 2021. Most people in their early 20s were living with their parents by the time of Census 2021.
+
+There are many factors that may cause a person to live with their parents as an adult. Adults were more likely to live with their parents in areas where housing is less affordable. Adult children were also more likely to be unemployed, or providing unpaid care.
+
+Male adult children outnumbered female adult children in 2021 at a ratio of about 3 to 2 (60.8% and 39.2%, respectively). This is a similar split to 2011 (61.6% and 38.4%).
+
+Despite Census 2021 being conducted during the coronavirus (COVID-19) pandemic and associated lockdowns, the rise in numbers of adults living with their parents appears to be a continuing trend rather than a result of the pandemic.
+
+Children living with their parents at older ages
+The average (median) age of adult children living with their parents in England and Wales in 2021 was 24 years, one year older than in 2011.
+
+Adult children were oldest in London, where the average age was 25 years. The median age in every other English region and that of Wales was 24 years.
+
+This varied at local authority level. In five London boroughs adult children’s average age had risen to 26 years. These include the neighbouring boroughs of Harrow (up from 24 years), Ealing, Hammersmith and Fulham and Brent (all up from 25 years). Haringey also saw the average age of adult children rise to 26 years from 24 years. Selby, in Yorkshire and The Humber, had the lowest average age of all local authorities at 23 years. This was unchanged from 2011.
+
+The number of adult children at older ages rose in the decade between 2011 and 2021. Across England and Wales, the share of 20- to 24-year-olds living with their parents rose from 44.5% to just over half (51.2%). Similarly, the share of 25- to 29-year-olds living with their parents rose from around one in five (20.1%) in 2011 to more than one in four (26.7%).
+
+More than 1 in 10 (11.6%) of those aged 30 to 34 years were living with their parents in Census 2021, up from 8.6% a decade earlier.
+
+At the same time, the number of adult children aged 16 to 18 years fell, as reported in our People's living arrangements in England and Wales: Census 2021 article.
+
+While 15.6% of those aged 16 to 18 years were adult children in 2011, only 12.0% were adult children in Census 2021. This decline was larger in England, from 15.5% in 2011 to 11.9% in 2021, compared with that in Wales (16.9% to 14.3%).
+
+The larger decline may be a result of the Education and Skills Act 2008, which raised the age at which people must remain in education or training in England to 17 years in 2013 and to 18 years in 2015.
+
+One in four London families had adult children in the home
+More than one in four (26.8%) London families had at least one adult child in the home, the largest proportion of any English region. The smallest number was in the South West at around one in five (19.3%) families. In Wales, 23.2% of families had at least one adult child.
+
+Six of the ten local authorities with the highest proportion of families with adult children were in London. The highest was in Brent, where almost one in three (32.4%) families had adult children living with them.
+
+Other areas where families with adult children were most common include Leicester (30.4%), Knowsley (30.2%) and Birmingham (29.9%).
+
+The lowest proportions were in Rutland (16.4%), Cotswold (16.9%) and Rushcliffe (16.9%). Cities in England and Wales with some of the lowest proportions of families with adult children include Cambridge (17.2%) and Winchester (17.3%).
+
+The number of families with adult children increased in every region of England and Wales between 2011 and 2021, fastest in London, at 24.5%. This is around twice the increase seen across all other English regions combined (12.2%) and around five times the increase seen in Wales (5.2%).
+
+The North East had the smallest rise in the number of families with adult children of any region in England and Wales at 0.5%.This was the only region where the proportion of families with adult children fell, because the total number of families grew faster than that of families with adult children.
+
+London was the least affordable region for buying a home in 2022, with an average worker spending 12.5 times their annual earnings to buy a home where they work. The North East was the most affordable area, with the average home costing 4.9 times average earnings. This is according to our recently published Housing affordability in England and Wales: 2022 bulletin.
+
+London was also the least affordable region for private rental housing in 2021, with the average rent equivalent to 39.8% of average household incomes. This is according to our previously published Private rental affordability, England, Wales and Northern Ireland: 2021 bulletin.
+
+Among all local authorities, Tower Hamlets, Barking and Dagenham and Newham saw the highest growth rates of families with adult children at 46.1%, 38.5% and 38.1%, respectively. These neighbouring areas together form a strip along the Thames in East London.
+
+Tower Hamlets and Barking and Dagenham had the highest and third-highest rate of population growth (22.1% and 17.7%, respectively) of anywhere in England. Newham also experienced above average population growth, rising 14.0% between 2011 and 2021. The population of London rose 7.7% in that time, while the population of England rose 6.6%.
+
+These areas were among the 276 (83.6%) of local authorities in England and Wales where the number of families with adult children grew faster than the overall number of families. This led to an increase in the proportion of families with adult children.
+
+Meanwhile, there were 16 (4.8%) local authorities where the number of families with adult children fell between 2011 and 2021. Of these, four were in each of the North West and North East, and three were in Wales.
+
+Almost half of lone-parent families had adult children in the home
+Lone-parent families were substantially more likely to have adult children living in the home than other types of families.
+
+Overall, 45.7% of lone-parent families had adult children in the home, higher than among families where parents are living together with children (21.2%) or married or in a civil partnership with children (38.2%).
+
+The number of lone-parent families with adult children increased 22.4% in England and Wales between 2011 and 2021. The characteristics of all lone-parent families are covered in greater detail in our Families in England and Wales article.
+
+London was the only region where more than half of lone-parent families had adult children (50.6%) in 2021. This was a 31.1% increase from 2011, the highest of any region.
+
+The two other regions where these families increased by more than a quarter were the East of England (27.3%) and the South East (25.4%).
+
+London also saw faster growth (17.2%) in the number of couples who were married or in civil partnerships with adult children compared with other regions. English regions outside London saw just a 3.7% increase in this time.
+
+There was also a 45.3% rise in the number of in cohabiting couples with adult children in England and Wales. This represents an increase of around 92,000 families, which is smaller than the increase in lone-parent families with adult children (265,000 families) and similar to the rise of around 96,000 couples who are married or in a civil partnership with adult children.
+
+One in four adult children were unpaid carers
+Adult children are more likely to provide unpaid care compared with the general population. However, the census does not indicate whether an unpaid carer is providing care to someone inside or outside the home, so it is not certain whether adult children are specifically caring for a person within their home.
+
+To explore this, we use age-standardised and age-specific percentages. Across England and Wales, around 477,000 adult children were unpaid carers, which is an age-standardised rate of around 28.8%. This is around three times higher than the rate among other usual residents aged 16 years and over (9.7%).
+
+Female adult children were more likely to be carers in every family type compared with male adult children
+
+This is a statistically significant fall from the 2011 Census, when 31.0% of adult children living with their parents were unpaid carers. This suggests that while adult children are more likely to be unpaid carers compared with the rest of the population, this has not been a contributing factor to the overall increase in the number of adult children in the previous decade.
+
+The share of adult children providing unpaid care in 2021 was similar in England (28.8%) and Wales (29.9%), and the difference between the two was not statistically significant.
+
+Adult children in lone-parent families were more likely to be carers compared with those in couple families (32.1% and 19.3%, respectively).
+
+Female adult children are more likely to be unpaid carers. In Census 2021, one in three (33.0%) female adult children said they were providing unpaid care, compared with 26.6% of male adult children.
+
+Similarly, female adult children were more likely to report more hours of unpaid care per week. Around one in five (18.8%) of female adult children said their caring responsibilities were 50 hours or more a week, while only around one in eight (12.9%) of male adult children said the same.
+
+Families with adult children were also more likely to be in a household where at least one person said they had a disability that limited their day-to-day activities a lot. This was the case for more than one in five (22.5%) families with adult children, compared with 12.5% of families without adult children.
+
+Adult children more likely to be students or unemployed
+Because adult children are generally younger than the overall population, this will affect how they participate in the workforce. A disproportionately young population, for example, would have a higher share of students and a lower share of people in retirement.
+
+To account for this, we looked at adult children aged 22 to 64 years to include only working-age people after they are likely to have finished an undergraduate degree. Within this group, 6.2% were students. This does not include part-time students who are either in employment or seeking work. This rate was nearly twice the proportion of students among all usual residents aged 22 to 64 years (3.1%).
+
+Of all adult children aged 22 to 64 years, 72.7% were in employment, which is slightly lower than the 75.6% of all usual residents aged 22 to 64 years who were in employment. Nearly half (49.6%) of adult children aged 22 to 64 years were full-time employees, a slightly higher share than that among all usual residents aged 22 to 64 years (47.0%).
+
+A larger share of adult children aged 22 to 64 years were unemployed at the time of Census 2021, compared with all usual residents in this age group (8.2%) and (3.7%) respectively. This includes people (including full-time students) who are looking for work and could start within two weeks and those who were waiting to start a job that had been offered and accepted.
+
+London had the highest share of unemployed adult children aged 22 to 64 years (10.4%) among the English regions.
+
+Adult children aged 22 to 64 years were less likely to be economically inactive, meaning they were not in work and were either not looking for work or looking for work but not able to start work in the next two weeks. This figure was 15.4% for adult children aged 22 to 64 years and 18.9% for all usual residents aged 22 to 64 years. The most common reason adult children aged 22 to 64 years were economically inactive was because of long-term sickness or disability (6.4%), a higher rate than that among all usual residents in this age range (5.2%).
+
+More than one in seven families with adult children live in overcrowded households
+Families with adult children were also more likely to be in overcrowded households, meaning their accommodation has fewer bedrooms than the number recommended for its size.
+
+In 2021, 11.3% of families with adult children were in overcrowded households compared with 5.1% of families without adult children.
+
+Overcrowding was more common among lone-parent (13.5%) and cohabiting (11.1%) families with adult children compared with married or civil-partnership families with children 9.7%). However, lone-parent families were the only family type where the rate of overcrowding was lower among those with adult children (13.5%) compared with those without adult children (15.3%).
+
+Overcrowding among families with adult children was most prevalent in London (23.2%), while the North East had the lowest rate of overcrowding among these families (6.7%). The overcrowding rate among families with adult children in Wales was 6.9%.
+
+Impact of the coronavirus pandemic
+Census 2021 took place during the coronavirus (COVID-19) pandemic and associated lockdowns, when some adults may have been more likely to return to their family home. This could have been to reduce their living costs or be closer to family. It is also possible that people may have delayed leaving their home or moving because of the pandemic.
+
+However, the greater proportions of adult children seen in Census 2021 does not appear to be entirely pandemic-related. Around 9 in 10 (91.3%) adult children in England and Wales said in Census 2021 that they had been living at the same address a year earlier. This is slightly higher than among all residents aged 16 years and over (88.7%). This is also similar to the share of adult children who said in the 2011 Census that their address was the same in 2010 (91.0%).
+
+Younger adult children were less likely than their peers to have moved home in the year before completing the census. While around a third (32.8%) of usual residents aged 20 to 24 years reported a move, only 1 in 10 (10.1%) of adult children in this age group had moved home.
+
+Even among those aged 25 to 39 years, the share of adult children who were at a different address in 2021 was half that among all residents in that age group (8.9% and 19.1%, respectively).

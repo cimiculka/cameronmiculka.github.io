@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  Hawaii a destination for adventure — safety be darned — yet officials continue to push for precaution in a daunting fight
-date:   2017-02-18 00:00:00 +0000
+layout: single
+title:  "Hawaii a destination for adventure - safety be darned - yet officials continue to push for precaution in a daunting fight"
+date:   2018-02-18 00:00:00 +0000
 categories: jekyll update
 ---
+*This story was [originally published in West Hawaii Today](http://www.westhawaiitoday.com/2018/02/18/hawaii-news/hawaii-a-destination-for-adventure-safety-be-darned-yet-officials-continue-to-push-for-precaution-in-a-daunting-fight/) and has been reproduced in full with permission. A PDF of how this story appeared in print is available here.  Photo by Laura Ruminski, West Hawaii Today*
+
 KA LAE — For a moment, Marek Zak was flying.
 
 Leaping from atop a boat hoist, Zak took off before gravity caught him, sending the 30-year-old down from view, nothing to catch him but the ocean.
