@@ -41,6 +41,11 @@ $link-color: #000;
       border-top-left-radius: 5px;
       border-top-right-radius: 5px;
     }
+    &:hover{
+      filter: brightness(85%);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+
+    }
    }
    
    .masonry-headline {
@@ -48,11 +53,10 @@ $link-color: #000;
     margin: 0px 5px 0px 5px;
     font-weight: bold;
     a:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
-    h2 {
-      font-size: $type-size-7;
-      font-weight: bold;
+    p {
+      font-weight: normal;
     }
    }
 
