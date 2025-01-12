@@ -81,3 +81,18 @@ $background-color: rgb(246, 243, 235);
     background-color: darkslategrey;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
    }
+
+  #cv_container {
+    margin: 0px 50px 0px 50px;
+    img {
+      margin: 5px 15px 15px 0px;
+      width:125px;
+      border-radius: 8px;
+      float:left;
+    }
+  }
+
+  #cv_text {
+    font-size: $type-size-6;
+  }
+
