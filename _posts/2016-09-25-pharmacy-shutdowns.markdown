@@ -1,12 +1,11 @@
 ---
-layout: single
 title:  "Pharmacy shutdowns: Independent businesses being swallowed up by falling reimbursements"
 date:   2016-09-25 00:00:00 +0000
-categories: jekyll update
+header:
+    teaser: "assets/images/malama-pharmacy.jpg"
+publication: "West Hawaii Today"
+
 ---
-
-*This story was originally published in West Hawaii Today and reproduced in full with permission. Photo by Laura Ruminiski, West Hawaii Today*
-
 HONOKAA – For 72 years, the Hamakua Family Pharmacy served this town, filling 3,000 prescriptions a month.
 
 "Pharmacy used to be enough just (to) stand-alone," said registered pharmacist Eileen Cheng. "So we didn't have to do anything else."

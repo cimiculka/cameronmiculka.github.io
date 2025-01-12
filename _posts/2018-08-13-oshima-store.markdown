@@ -1,8 +1,10 @@
 ---
-layout: single
 title:  "Oshima Store to close after 92 years"
 date:   2018-08-13 00:00:00 +0000
-categories: jekyll update
+publication: "West Hawaii Today"
+header:
+    teaser: "assets/images/oshima-store.jpg"
+article_link: "https://www.westhawaiitoday.com/2018/08/13/hawaii-news/oshima-store-to-close-after-92-years/"
 ---
 KAINALIU - There was a time when Kainaliu was a center of Kona life.
 

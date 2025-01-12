@@ -3,8 +3,11 @@ layout: single
 title:  "Temples Get Creative To Save Obon Season In Hawaii"
 date:   2020-07-24 00:00:00 +0000
 categories: jekyll update
+header:
+    teaser: "/assets/images/jiko-nakade-obon.jpg"
+publication: "Honolulu Civil Beat"
+article_link: "https://www.civilbeat.org/2020/07/temples-get-creative-to-save-obon-season-in-hawaii/"
 ---
-
 Two days before the Obon service at Daifukuji Soto Mission in Honalo, banners hung in the temple’s main hall along with blue and white lanterns meant to guide ancestral spirits back for Obon. Near the altar stood nine o-toba, wooden pillars each inscribed with the name of a temple member who had passed away in the last 12 months.
 
 Typically the Obon service is open to everyone, often drawing members of Taishoji Soto Mission in Hilo, said Rev. Jiko Nakade, resident minister at Daifukuji Soto Mission. This year’s service would be smaller though, Nakade said, limited only to the families of those whose names were written on the o-toba.

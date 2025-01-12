@@ -1,12 +1,11 @@
 ---
-layout: single
 title:  "The Pandemic-Driven Future Of Affordable Homes In North Kona"
 date:   2020-09-08 00:00:00 +0000
-categories: jekyll update
+header:
+    teaser: "/assets/images/wainani-estates.jpg"
+publication: "Honolulu Civil Beat"
+article_link: "https://www.civilbeat.org/2020/09/the-pandemic-driven-future-of-affordable-homes-in-north-kona/"
 ---
-
-*This article originally appeared in* Honolulu Civil Beat. *The published article [is available here](https://www.civilbeat.org/2020/09/the-pandemic-driven-future-of-affordable-homes-in-north-kona/).
-
 About 550 feet up Hualalai with a view looking out toward Keahole, the neighborhood of Wainani Estates in North Kona is home to a mix of local families and retirees.
 
 By the time Barrie Parker, principal broker at Asset Real Estate and Management closed on the last of the neighborhood’s 50 newest homes in February, properties there had been selling at a steady clip for nearly two years, mostly between $550,000 and $665,000.

@@ -1,12 +1,11 @@
 ---
-layout: single
 title:  "Aboard Hokule'a"
 date:   2018-05-06 00:00:00 +0000
-categories: jekyll update
+header:
+    teaser: "assets/images/maulili-dickson-hokulea.jpg"
+publication: "West Hawaii Today"
+article_link: "https://www.westhawaiitoday.com/2018/05/06/hawaii-news/aboard-hokulea/"
 ---
-
-*This story was originally published in* West Hawaii Today *and reproduced in full with permission. A PDF of how this story appeared in print is available here. Photo by Cameron Miculka,* West Hawaii Today.
-
 KAWAIHAE — As Pualani Lincoln Maielua steered Hokule‘a into harbor Sunday evening, the call of a pu swept the sea and about a dozen canoes made their way out to greet the incoming crew.
 
 Standing at Hokule‘a's bow, Will Mae-Huihui, a born-and-raised fisherman of Miloli‘i, pulled a pu from the foremast and sounded a response as paddlers' voices filled the harbor, their paddles raised to the sky.

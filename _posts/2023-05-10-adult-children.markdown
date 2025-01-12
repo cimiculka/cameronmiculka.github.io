@@ -1,12 +1,11 @@
 ---
-layout: single
 title:  "More adults living with their parents"
 date:   2023-05-10 00:00:00 +0000
-categories: jekyll update
+publication: "Office for National Statistics"
+header:
+    teaser: "assets/images/adult-children-map.png"
+article_link: "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10#:~:text=In%202021%2C%20around%201%20in,4.9%20million%20in%20Census%202021"
 ---
-
-*This article was originally published by the Office National Statistics. The published version is available [here](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10#:~:text=In%202021%2C%20around%201%20in,4.9%20million%20in%20Census%202021).*
-
 The number of families in England and Wales with adult children living with their parents rose 13.6% between the 2011 Census and Census 2021 to nearly 3.8 million.
 
 In 2021, around 1 in every 4.5 families (22.4%) had an adult child, up from around 1 in 5 (21.2%) in 2011.

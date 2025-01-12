@@ -3,10 +3,9 @@ title:  "Big Island Officials Are Frustrated That Opportunity Zones Haven't Draw
 date:   2020-06-14 00:00:00 +0000
 header:
     teaser: /assets/images/oz_wh_map.png
-author:
-    location: "Kailua-Kona, Hawaii"
+publication: "Honolulu Civil Beat"
+article_link: "https://www.civilbeat.org/2020/06/big-island-officials-frustrated-that-opportunity-zones-havent-drawn-new-investment/"
 ---
-
 More than two years after Congress created opportunity zones as part of the 2017 Tax Cuts and Jobs Act, business advocates on Hawaii island say there’s frustration among local entrepreneurs about a perceived lack of movement from the state to bring new investment into the island’s economically disadvantaged communities.
 
 A branch manager at the agency tasked with promoting the state’s opportunity zones said after a couple years of promoting the zones, recent efforts to help individual projects, including a planned showcase, have been hampered by the pandemic and associated economic crunch.
