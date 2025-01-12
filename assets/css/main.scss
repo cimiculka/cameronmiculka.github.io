@@ -17,7 +17,7 @@ $background-color: rgb(246, 243, 235);
       }
   
       @include breakpoint($medium) {
-        max-height: 60%;
+        max-height: 80%;
       }
     }
   }
@@ -96,3 +96,11 @@ $background-color: rgb(246, 243, 235);
     font-size: $type-size-6;
   }
 
+  #opioids-grid {
+    column-count: 2;
+    column-gap: 20px;
+    border-radius: 8px;
+    a {
+      text-decoration: none;
+    }
+  }
