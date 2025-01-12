@@ -13,8 +13,11 @@ layout: archive
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+<!-- <div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div> -->
+
+<div class = 'masonry-container'>
   {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
-
 {% include paginator.html %}
