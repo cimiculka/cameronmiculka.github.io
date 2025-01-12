@@ -2,3 +2,6 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugin
+
+# try catch exceptions and errors
+gem 'faraday-retry', '~> 2.2'
