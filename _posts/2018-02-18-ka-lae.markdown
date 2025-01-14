@@ -2,11 +2,14 @@
 title:  "Hawaii a destination for adventure - safety be darned - yet officials continue to push for precaution in a daunting fight"
 date:   2018-02-18 00:00:00 +0000
 header:
-    teaser: "assets/images/south-point.jpg"
+    teaser: "/assets/images/south-point.jpg"
+    caption: "Marek Zak of the Czech Republic jumps from the boat hoist at South Point on Thursday. (Laura Ruminski/West Hawaii Today)"
 publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/02/18/hawaii-news/hawaii-a-destination-for-adventure-safety-be-darned-yet-officials-continue-to-push-for-precaution-in-a-daunting-fight/"
 ---
-**KA LAE**{: .dateline} &ndash;  — For a moment, Marek Zak was flying.
+{% include leader-image.html %}
+
+**KA LAE**{: .dateline} &ndash; For a moment, Marek Zak was flying.
 
 Leaping from atop a boat hoist, Zak took off before gravity caught him, sending the 30-year-old down from view, nothing to catch him but the ocean.
 

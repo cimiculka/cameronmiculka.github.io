@@ -5,10 +5,13 @@ layout: single
 date:   2018-07-17 00:00:00 +0000
 header:
     teaser: "/assets/images/opioids-day-2.jpg"
+    caption: "From left, Edward Reynolds, Bud Luth, Kekoa Kealoha and Teri Hollowell speak amongst each other at the Hawaii Island HIV/AIDS Foundation office in Kailua-Kona. (Cameron Miculka/West Hawaii Today)"
 publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/05/22/hawaii-news/frontline-of-the-opioid-fight/"
 order: 3
 ---
+{% include leader-image.html %}
+
 **KAILUA-KONA**{: .dateline} &ndash; In an office tucked back behind a Taco Bell, around the corner and through a door marked with a large red ribbon works a team of professionals on the frontlines in a fight for people's lives.
 
 It's a formidable task. But the team from the Hawaii Island HIV/AIDS Foundation and the Hawaii Health and Harm Reduction Center are up to it, undaunted even.

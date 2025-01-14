@@ -2,13 +2,15 @@
 title:  "Yishan Wong has an ambitious idea for fighting climate change: Plant more trees"
 date:   2020-01-12 00:00:00 +0000
 header:
-    teaser: "assets/images/yishan-wong-kohala.jpg"
+    teaser: "/assets/images/yishan-wong-kohala.jpg"
+    caption: "Yishan Wong speaks about his vision of reforestation on his 45-acre property in North Kohala Christmas Eve. (Tom Hasslinger/West Hawaii Today)"
 publication: "West Hawaii Today"
 article_link: "https://www.westhawaiitoday.com/2020/01/12/hawaii-news/yishan-wong-has-an-ambitious-idea-for-fighting-climate-change-plant-more-trees/"
 
 ---
+{% include leader-image.html %}
 
-**NORTH KOHALA**{: .dateline} &ndash;  — Looking mauka up Kohala’s leeward slope, it’s not easy, at first, to picture the dry forest that once dominated this landscape with koaia, iliahi and other native trees and shrubs.
+**NORTH KOHALA**{: .dateline} &ndash; Looking mauka up Kohala’s leeward slope, it’s not easy, at first, to picture the dry forest that once dominated this landscape with koaia, iliahi and other native trees and shrubs.
 
 But as Yishan Wong traces his finger along the path of a drip line that winds its way across the ground, blushes of green start to appear. Approach one of these revived pockets and there stands a sapling of koaia yearning to make its way skyward.
 

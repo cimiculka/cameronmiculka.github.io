@@ -5,10 +5,13 @@ layout: single
 date:   2018-07-16 00:00:00 +0000
 header:
     teaser: "/assets/images/opioids-day-1.jpg"
+    caption: "Dr. Michael McGrath performs a consultation at his office at the Recovery Enhanced Medicine Institute in Kailua-Kona. (Laura Ruminski/West Hawaii Today)"
 publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/07/16/hawaii-news/opioid-crisis-averted-or-inevitable/"
 order: 4
 ---
+{% include leader-image.html %}
+
 **KAILUA-KONA**{: .dateline} &ndash; There's one thing to understand right away about the root of the opioid crisis - there is no one thing.
 
 Or, as Dr. Michael McGrath at his Recovery Enhanced Medicine Institute on Alapa Street in Kailua-Kona, put it:

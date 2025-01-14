@@ -5,10 +5,13 @@ layout: single
 date:   2018-07-18 00:00:00 +0000
 header:
     teaser: "/assets/images/opioids-day-3.jpg"
+    caption: "Hawaii Fire Department EMS Capt. Chris Honda holds reversal medication for a person suffering an overdose of narcotics Thursday at Central Fire Station in Hilo. (Hollyn Johnson/Hawaii Tribune-Herald)"
 publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/07/18/hawaii-news/opioid-effort-tighter-safeguards-increased-awareness-and-expanding-reach-among-upgrades-in-drug-abuse-battle/"
 order: 2
 ---
+{% include leader-image.html %}
+
 **KAILUA-KONA**{: .dateline} &ndash; So far, lessons have been learned.
 
 The knowledge gained from them has helped health care experts implement tighter safeguards and heightened awareness, both key components in moving the fight against drug misuse and addiction down the field.

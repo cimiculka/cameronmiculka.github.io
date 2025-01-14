@@ -2,11 +2,14 @@
 title:  "Fork in the road: Waimea trail draws hikers despite recent citations"
 date:   2017-07-16 00:00:00 +0000
 header:
-    teaser: "assets/images/waimea-trail.jpeg"
-publication: "West Hawaii Today"
+    teaser: "/assets/images/waimea-trail.jpeg"
+    credit: "West Hawaii Today"
+publication: "(Photo credit: West Hawaii Today)"
 article_link: "https://www.westhawaiitoday.com/2017/07/16/hawaii-news/waimea-trail-draws-hikers-despite-recent-citations/"
 
 ---
+{% include leader-image.html %}
+
 **WAIMEA**{: .dateline} &ndash; About a week after officers from the state Department of Land and Natural Resources issued dozens of trespassing citations, the route known as the White Road Trail continues to draw hikers looking for a day outdoors.
 
 Noah De La Cruz, 19, and Ani Case, 18, were mulling over the idea of hiking the trail while they were parked Saturday morning along the road hikers often take to access the trail, which leads to an overlook and flume.
