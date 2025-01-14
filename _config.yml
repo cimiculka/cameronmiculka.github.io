@@ -62,18 +62,16 @@ collections:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/cimiculka
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://www.github.com/cimiculka
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/cimiculka
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://www.github.com/cimiculka
+      # url:
 
 
 # Reading Files
