@@ -6,7 +6,7 @@ categories: jekyll update
 header:
     teaser: "/assets/images/jiko-nakade-obon.jpg"
 publication: "Honolulu Civil Beat"
-article_link: "https://www.civilbeat.org/2020/07/temples-get-creative-to-save-obon-season-in-hawaii/"
+link: "https://www.civilbeat.org/2020/07/temples-get-creative-to-save-obon-season-in-hawaii/"
 ---
 Two days before the Obon service at Daifukuji Soto Mission in Honalo, banners hung in the temple’s main hall along with blue and white lanterns meant to guide ancestral spirits back for Obon. Near the altar stood nine o-toba, wooden pillars each inscribed with the name of a temple member who had passed away in the last 12 months.
 

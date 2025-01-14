@@ -4,7 +4,8 @@ header:
     teaser: "assets/images/nash_camacho.jpg"
 date:   2016-02-22 00:00:00 +0000
 publication: "Pacific Daily News"
-article_link: "https://www.guampdn.com/news/local/seafarer-prepares-to-set-sail/article_5bdf418c-c5ad-586b-9ced-bc60a0c7f743.html"
+link: "https://www.guampdn.com/news/local/seafarer-prepares-to-set-sail/article_5bdf418c-c5ad-586b-9ced-bc60a0c7f743.html"
+hide: true
 ---
 Next month, local seafarer Ignacio Camacho will head to Taiwan to begin a trip more than two years in the making.
 

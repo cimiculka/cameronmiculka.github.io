@@ -4,7 +4,7 @@ date:   2020-09-08 00:00:00 +0000
 header:
     teaser: "/assets/images/wainani-estates.jpg"
 publication: "Honolulu Civil Beat"
-article_link: "https://www.civilbeat.org/2020/09/the-pandemic-driven-future-of-affordable-homes-in-north-kona/"
+link: "https://www.civilbeat.org/2020/09/the-pandemic-driven-future-of-affordable-homes-in-north-kona/"
 ---
 About 550 feet up Hualalai with a view looking out toward Keahole, the neighborhood of Wainani Estates in North Kona is home to a mix of local families and retirees.
 
