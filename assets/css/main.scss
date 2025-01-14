@@ -3,7 +3,8 @@
 ---
 @charset "utf-8";
 $link-color: #000;
-$background-color: rgb(246, 243, 235);
+$background-color: rgb(255, 241, 224);
+$card-color: rgba(250, 222, 203, 0.8);
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -36,7 +37,7 @@ $background-color: rgb(246, 243, 235);
     border-radius: 8px;
     margin-bottom: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: rgba(255, 241, 224,0.7);
+    background-color: $card-color;
     img { 
       display:block;
       width: 100%;
