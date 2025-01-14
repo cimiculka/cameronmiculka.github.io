@@ -13,7 +13,11 @@
 <div class="masonry-item">
   <article itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if include.type == "grid" and teaser %}
+    {% if post.link %}
+    <a href="{{ post.link }}">
+    {% else %}
     <a href="{{ post.url | relative_url }}" rel="permalink">
+    {% endif %}
       <div>
         <img src="{{ teaser | relative_url }}" alt="" width = "100%">
         <div class = 'blog__date'>
@@ -27,7 +31,7 @@
         </div>
         <div class="masonry-headline">
             {% if post.link %}
-              <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+              <a href="{{ post.link }}" target = "_blank">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
             {% else %}
             {{ title }}
             {% endif %}
