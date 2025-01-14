@@ -9,5 +9,7 @@
 {% endif %}
 
 {%- for post in entries -%}
+  {% unless post.hide %}
   {% include archive-single.html type=include.type %}
+  {% endunless %}
 {%- endfor -%}
