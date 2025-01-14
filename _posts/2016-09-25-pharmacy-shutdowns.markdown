@@ -6,7 +6,7 @@ header:
 publication: "West Hawaii Today"
 
 ---
-HONOKAA – For 72 years, the Hamakua Family Pharmacy served this town, filling 3,000 prescriptions a month.
+**HONOKAA**{: .dateline} &ndash;  – For 72 years, the Hamakua Family Pharmacy served this town, filling 3,000 prescriptions a month.
 
 "Pharmacy used to be enough just (to) stand-alone," said registered pharmacist Eileen Cheng. "So we didn't have to do anything else."
 

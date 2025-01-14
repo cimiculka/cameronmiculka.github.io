@@ -11,7 +11,7 @@ collection: opioids
 sort_field: order
 sort_order: reverse
 ---
-<p><em>In July 2018, West Hawaii Today published a four-part series I produced exploring the local opioid crisis, including interviews with local experts in public health and addiction along with medical professionals about the state of opioid use and misuse in Hawaii County and what measures are being taken and need to be taken to help those with or susceptible to opioid use disorder.</em></p>
+*In July 2018, West Hawaii Today published my four-part series I produced exploring the local opioid crisis, including interviews with local experts in public health and addiction along with medical professionals about the state of opioid use and misuse in Hawaii County and what measures are being taken and need to be taken to help those with or susceptible to opioid use disorder.*
 
 {% assign posts = site.opioids %}
 

@@ -8,7 +8,7 @@ article_link: "https://www.westhawaiitoday.com/2020/01/12/hawaii-news/yishan-won
 
 ---
 
-NORTH KOHALA — Looking mauka up Kohala’s leeward slope, it’s not easy, at first, to picture the dry forest that once dominated this landscape with koaia, iliahi and other native trees and shrubs.
+**NORTH KOHALA**{: .dateline} &ndash;  — Looking mauka up Kohala’s leeward slope, it’s not easy, at first, to picture the dry forest that once dominated this landscape with koaia, iliahi and other native trees and shrubs.
 
 But as Yishan Wong traces his finger along the path of a drip line that winds its way across the ground, blushes of green start to appear. Approach one of these revived pockets and there stands a sapling of koaia yearning to make its way skyward.
 

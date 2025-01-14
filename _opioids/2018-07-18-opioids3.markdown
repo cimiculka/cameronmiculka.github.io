@@ -9,7 +9,7 @@ publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/07/18/hawaii-news/opioid-effort-tighter-safeguards-increased-awareness-and-expanding-reach-among-upgrades-in-drug-abuse-battle/"
 order: 2
 ---
-KAILUA-KONA - So far, lessons have been learned.
+**KAILUA-KONA**{: .dateline} &ndash; So far, lessons have been learned.
 
 The knowledge gained from them has helped health care experts implement tighter safeguards and heightened awareness, both key components in moving the fight against drug misuse and addiction down the field.
 

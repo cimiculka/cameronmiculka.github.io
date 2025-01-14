@@ -9,7 +9,7 @@ publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/07/16/hawaii-news/opioid-crisis-averted-or-inevitable/"
 order: 4
 ---
-KAILUA-KONA - There's one thing to understand right away about the root of the opioid crisis - there is no one thing.
+**KAILUA-KONA**{: .dateline} &ndash; There's one thing to understand right away about the root of the opioid crisis - there is no one thing.
 
 Or, as Dr. Michael McGrath at his Recovery Enhanced Medicine Institute on Alapa Street in Kailua-Kona, put it:
 

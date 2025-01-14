@@ -6,7 +6,7 @@ header:
     teaser: "assets/images/oshima-store.jpg"
 article_link: "https://www.westhawaiitoday.com/2018/08/13/hawaii-news/oshima-store-to-close-after-92-years/"
 ---
-KAINALIU - There was a time when Kainaliu was a center of Kona life.
+**KAINALIU**{: .dateline} &ndash;  - There was a time when Kainaliu was a center of Kona life.
 
 Going to town, back then, meant dropping by Oshima Store, the single-story market on what's now Hawaii Belt Road that in its earliest years sold hand-cranked, homemade ice cream by the cup. The store was rebuilt from the ashes in the late 1940s, and continued as an anchor institution that served as a pharmacy, tackle shop and community center.
 

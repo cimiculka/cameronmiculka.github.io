@@ -6,7 +6,7 @@ header:
 publication: "West Hawaii Today"
 article_link: "https://www.westhawaiitoday.com/2018/05/06/hawaii-news/aboard-hokulea/"
 ---
-KAWAIHAE — As Pualani Lincoln Maielua steered Hokule‘a into harbor Sunday evening, the call of a pu swept the sea and about a dozen canoes made their way out to greet the incoming crew.
+**KAWAIHAE**{: .dateline} &ndash;  — As Pualani Lincoln Maielua steered Hokule‘a into harbor Sunday evening, the call of a pu swept the sea and about a dozen canoes made their way out to greet the incoming crew.
 
 Standing at Hokule‘a's bow, Will Mae-Huihui, a born-and-raised fisherman of Miloli‘i, pulled a pu from the foremast and sounded a response as paddlers' voices filled the harbor, their paddles raised to the sky.
 

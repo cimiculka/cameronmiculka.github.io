@@ -7,7 +7,7 @@ publication: "West Hawaii Today"
 article_link: "https://www.westhawaiitoday.com/2017/07/16/hawaii-news/waimea-trail-draws-hikers-despite-recent-citations/"
 
 ---
-WAIMEA — About a week after officers from the state Department of Land and Natural Resources issued dozens of trespassing citations, the route known as the White Road Trail continues to draw hikers looking for a day outdoors.
+**WAIMEA**{: .dateline} &ndash; About a week after officers from the state Department of Land and Natural Resources issued dozens of trespassing citations, the route known as the White Road Trail continues to draw hikers looking for a day outdoors.
 
 Noah De La Cruz, 19, and Ani Case, 18, were mulling over the idea of hiking the trail while they were parked Saturday morning along the road hikers often take to access the trail, which leads to an overlook and flume.
 
@@ -17,8 +17,7 @@ De La Cruz, also of Waimea, said he’s hiked the trail about three times.
 
 “Never been cited though before,” he said.
 
-48 citations
-
+###### 48 citations
 On July 8, officers from the Division of Conservation and Resources Enforcement under DLNR wrote 48 citations to adults and warnings to minors for trespassing into the Kohala Forest Reserve, said Deborah Ward communications specialist for DLNR. Ward said there had been 12 citations issued this year before July 8, but “DOCARE has verbally warned hundreds of people.”
 
 “It is considered criminal trespass,” she said.
@@ -31,7 +30,7 @@ But unlike many other popular trails on the island, access to this one is highly
 
 Legal access to the end of the open trail, which leads to the Waipio lookout, is obtainable, but only for those who get a state permit and permission from the adjacent landowner. That said, the flume is beyond the lookout and after the point the trail is closed. Nobody is allowed back there.
 
-Several steps to take
+###### Several steps to take
 
 The first gate hikers would need to cross marks the beginning of property leased by the Department of Hawaiian Home Lands. At that gate are signs reading “Kapu” and “Keep out.”
 
@@ -51,7 +50,7 @@ DOCARE’s North Hawaii supervisor in a press release also spoke to the trail’
 
 A DLNR release said the agency plans to contact travel sites and blogs that write about the trail to let readers know they will be cited if they trespass into the reserve and restricted watershed.
 
-‘We’re just trying to see it’
+###### ‘We’re just trying to see it’
 
 Case, who was one of several hikers near the trailhead interviewed Friday and Saturday, said it was unfair that DOCARE was citing hikers, saying the trail is one everyone wants to do.
 
@@ -75,7 +74,7 @@ But James DuPont, West Hawaii district supervisor for the Department of Hawaiian
 
 “I mean it’s pretty simple,” he said. “If this was your private property, how would you feel if the masses just crossed your land?”
 
-‘We need to be conscious’
+###### ‘We need to be conscious’
 
 Juni Medeiros, whose family has held the lease to the Hawaiian Home Lands parcel for more than 40 years, declined to speak about the recent citations or enforcement by DLNR, but did want hikers anywhere on the island to keep in mind the unintended consequences their day on a trail might have.
 

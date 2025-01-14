@@ -9,7 +9,7 @@ publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/05/22/hawaii-news/frontline-of-the-opioid-fight/"
 order: 3
 ---
-KAILUA-KONA - In an office tucked back behind a Taco Bell, around the corner and through a door marked with a large red ribbon works a team of professionals on the frontlines in a fight for people's lives.
+**KAILUA-KONA**{: .dateline} &ndash; In an office tucked back behind a Taco Bell, around the corner and through a door marked with a large red ribbon works a team of professionals on the frontlines in a fight for people's lives.
 
 It's a formidable task. But the team from the Hawaii Island HIV/AIDS Foundation and the Hawaii Health and Harm Reduction Center are up to it, undaunted even.
 

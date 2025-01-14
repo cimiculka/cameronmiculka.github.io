@@ -6,7 +6,7 @@ header:
 publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/02/18/hawaii-news/hawaii-a-destination-for-adventure-safety-be-darned-yet-officials-continue-to-push-for-precaution-in-a-daunting-fight/"
 ---
-KA LAE — For a moment, Marek Zak was flying.
+**KA LAE**{: .dateline} &ndash;  — For a moment, Marek Zak was flying.
 
 Leaping from atop a boat hoist, Zak took off before gravity caught him, sending the 30-year-old down from view, nothing to catch him but the ocean.
 

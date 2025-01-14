@@ -9,7 +9,7 @@ publication: "West Hawaii Today"
 article_link: "http://www.westhawaiitoday.com/2018/07/19/hawaii-news/major-components-need-to-be-added-attitudes-shifted-as-the-fight-against-opioid-misuse-marches-on/"
 order: 1
 ---
-KAILUA-KONA - These days, Christian K. doesn't let his past define him.
+**KAILUA-KONA**{: .dateline} &ndash; These days, Christian K. doesn't let his past define him.
 
 "I'm a lot more than just a person in recovery," he said. "I don't really consider myself ‘recovered' or ‘recovery,' just I had my issues in life that I worked out."
 
