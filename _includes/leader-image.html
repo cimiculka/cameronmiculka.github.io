@@ -1,6 +1,12 @@
 {: .article__copy}
-<img src = "{{ page.header.teaser }}" style = "margin: 5px 15px 15px 0px;
-width:230px;
-border-radius: 8px;
-float:left">
-*{{ page.header.caption }}*{: .article__caption}
+<figure style = "width: 33%; 
+                 padding: 7px; 
+                 float:left;
+                 margin:5px 15px 0px 0px;
+                 border-radius: 8px;
+                 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                 background-color: rgba(250, 222, 203, 0.9);">
+  <img src="{{ page.header.teaser}}" alt="{{ page.header.caption }}">
+  <figcaption style = "font-family:'Montserrat', 'Roboto', Helvetica, sans-serif; 
+                       color:darkslategray;">{{ page.header.caption }}</figcaption>
+</figure>
