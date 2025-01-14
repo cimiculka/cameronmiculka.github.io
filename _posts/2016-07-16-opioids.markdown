@@ -6,6 +6,7 @@ date: 2018-07-16 00:00:00 +0000
 entries_layout: grid
 header:
     teaser: "assets/images/opioids_cover.jpg"
+    caption: "A vial of naloxone sits next to educational material about how to respond to an overdose. (Cameron Miculka/West Hawaii Today)"
 date:   2018-07-16 00:00:00 +0000
 collection: opioids
 sort_field: order
