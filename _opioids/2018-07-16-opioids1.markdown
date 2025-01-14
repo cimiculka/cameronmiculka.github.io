@@ -28,7 +28,7 @@ The experts know the stakes.
 
 "It is life or death for most of our clients, and they don't all make it," said Eliza Wille, program director and therapist at Hawaii Island Recovery. "That's the reality that I think we all hold with us as the gravity of the situation."
 
-BY THE NUMBERS
+###### By the numbers
 
 The death rate for opioid-related overdoses in the state is less than half the national average, with just 77 opioid-related overdose deaths statewide in 2016, according to the Centers for Disease Control and Prevention.
 
@@ -62,7 +62,7 @@ Hawaii, however, has been buffered from the international supply of drugs like f
 
 "And yet, the day-to-day toll, heroin use, (hepatitis C) rates, those types of things are not really inconsistent with the mainland either," Logan said.
 
-LOOKING AT ADDICTION BEYOND THE DRUG
+###### Looking at addiction beyond the drug
 
 So why do people get addicted in the first place?
 

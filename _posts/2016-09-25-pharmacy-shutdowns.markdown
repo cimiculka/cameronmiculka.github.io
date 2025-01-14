@@ -3,7 +3,7 @@ title:  "Pharmacy shutdowns: Independent businesses being swallowed up by fallin
 date:   2016-09-25 00:00:00 +0000
 header:
     teaser: "/assets/images/malama-pharmacy.jpg"
-    caption: (Photo credit: West Hawaii Today)
+    caption: (Photo credit West Hawaii Today)
 publication: "West Hawaii Today"
 
 ---

@@ -25,7 +25,7 @@ Oshima Store, which grew and adapted with the community for 92 years, will close
 
 What's next is yet to be seen, but community members doubt it will be what it's been.
 
-Building an identity
+###### Building an identity
 
 In the 1960s, the town boasted a Ben Franklin 5-10, Hakoda's Builders Appliance and a bowling alley, a sign for which still rises, unlit, from the corrugated eaves of its 70-year-old building.
 
@@ -51,7 +51,7 @@ For Mary Jane Llanes, whose husband often comes by the store for fishing supplie
 
 "It's like losing a family member," she said.
 
-The origins
+###### The origins
 
 "Everybody knew each other," said Kimura, whose grandparents opened that family business in 1926, the same year Kanesaburo Oshima opened the store that bears his family's name. "Everybody grew up together."
 
@@ -75,7 +75,7 @@ After a fire destroyed the original building and inventory in August 1948, the f
 
 In a few months time, they were back open again, and started a pharmacy in 1955.
 
-Change in the landscape
+###### Change in the landscape
 
 Back in those days - before big-box business gained a foothold in the area - Oshima Store was a place to not just shop, grab a snack or fill prescriptions. It was also a chance to catch up with neighbors as well.
 

@@ -38,7 +38,7 @@ Wong believes if his project can work here in Hawaii, where costs and environmen
 
 And that’s starting here with the dry forest of North Kohala.
 
-CENTURIES OF CHANGE
+###### Centuries of change
 
 Long before humans arrived to the island, North Kohala was likely forested below where Kohala Mountain Road now runs, said the Department of Land and Natural Resources Division of Forestry and Wildlife. In addition to koaia, the forest would have been populated by trees like wiliwili, iliahi and mamane. Common shrubs, the agency said, would have included aalii, akia and ulei.
 
@@ -64,7 +64,7 @@ Beyond the reduced biodiversity, the agency said water recharge is “almost cer
 
 Rather than focus on how the land got this way, though, Wong emphasized that his focus is on advocating for and restoring the forest here.
 
-FROM SEA TO THE MOUNTAINS
+###### From sea to the mountains
 
 To overcome the stark environment, Wong is irrigating with freshwater produced via on-site desalination powered by a half-acre of solar panels, an approach he said is going to be critical in providing freshwater for his 3-billion-acre reforestation plan.
 
@@ -106,7 +106,7 @@ Wagner said she spent about six months studying the area before planting got und
 
 “These plants want to be there. They’re comfortable. They do well,” she said. “If you put the right elements and methods together, you can make it happen.”
 
-CRUNCHING THE NUMBERS
+###### Crunching the numbers
 
 Consideration of a large-scale tree-planting effort for tackling climate change isn’t a new idea itself.
 
@@ -150,7 +150,7 @@ And already, the North Kohala project is creating new opportunities to preserve 
 
 Wagner, who is also the director of the Hawaii Island Seed Bank, said they’ll also be keeping their ohia collections and other native seed collections on the property as well.
 
-DIFFICULT BUT NOT IMPOSSIBLE
+###### Difficult but not impossible
 
 There’s no question that climate change is a difficult issue, a “very, very, very difficult” one, as Wong put it.
 
