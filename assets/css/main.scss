@@ -1,13 +1,14 @@
 ---
 
 ---
-@import url('https://fonts.googleapis.com/css2?family=Joan&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @charset "utf-8";
 $link-color: #000;
-$background-color: rgb(255, 241, 224);
+$caption-color: #252424;
+$background-color: rgb(250, 242, 233);
 $card-color: rgba(250, 222, 203, 0.8);
 $serif: "Joan", Georgia, Times, serif;
-$sans-serif: "Josefin Sans", "Roboto", Helvetica, sans-serif;
+$sans-serif: "Montserrat", "Roboto", Helvetica, sans-serif;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -91,20 +92,42 @@ $sans-serif: "Josefin Sans", "Roboto", Helvetica, sans-serif;
     box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
    }
 
-
-  #cv_container {
+.article {
     margin: 0px 50px 0px 50px;
     img {
       margin: 5px 15px 15px 0px;
-      width:125px;
+      width:150px;
       border-radius: 8px;
       float:left;
     }
+    &__copy {
+      margin: 0px 50px 0px 50px;
+      font-size: $type-size-6;
+      h6 {
+        font-family: $serif;
+      }
+    }
+    &__caption {
+      font-size: $type-size-8;
+      font-family: $serif;
+      text-align: center;
+      color: $caption-color;
+  }
+}
+
+.masthead__menu-item {
+  font-size: medium;
+}
+
+.site-title{
+    font-size:x-large;
   }
 
-  #cv_text {
-    font-size: $type-size-6;
+.site-subtitle{
+    font-size:large;
   }
+
+
 
   #opioids-grid {
     column-count: 2;
